@@ -1,3 +1,3 @@
-## Idea
+### A birthday reminder app shows you the people has birthday today
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+

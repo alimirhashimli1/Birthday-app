@@ -9,7 +9,7 @@ export default [
   {
     id: 2,
     name: 'Hester Hogan',
-    birthday: '13.4.1942',
+    birthday: '18.4.1942',
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
   },

@@ -39,6 +39,6 @@ export default [
     name: 'Ali Mirhashimli',
     birthday: '17.4.1992',
     image:
-      'https://media-exp1.licdn.com/dms/image/C4D03AQFbIw_O0tptHw/profile-displayphoto-shrink_200_200/0/1605975934164?e=2147483647&v=beta&t=Q25_BYsmDnm4E7qWJtu53y9qC6xlhnZF_dLJXcJslQU',
+      'https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/297248473_5647427001955915_4058174199009012722_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9n6N__x3Z-UAX9QSnfJ&tn=U4J1a7PPlTGWn9K_&_nc_ht=scontent-ber1-1.xx&oh=00_AT-f2KyXGHSwYQZrM857Z6Y6ExJsgC2a1UIjsRXEayYatQ&oe=631D654A',
   },
 ];
